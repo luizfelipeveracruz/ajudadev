@@ -1,0 +1,16 @@
+Comando	Função
+dotnet build	Cria um aplicativo .NET.
+dotnet build-server	Interage com servidores iniciados por um build.
+dotnet clean	Limpa saídas de build.
+dotnet help	Mostra uma documentação mais detalhada online para o comando.
+dotnet migrate	Migra um projeto válido da Visualização 2 para um projeto do SDK 1.0 do .NET Core.
+dotnet msbuild	Oferece acesso à linha de comando do MSBuild.
+dotnet new	Inicializa um projeto do C# ou F# de um modelo especificado.
+dotnet pack	Cria um pacote NuGet do seu código.
+dotnet publish	Publica um aplicativo dependente do .NET Framework ou autocontido.
+dotnet restore	Restaura as dependências para um determinado aplicativo.
+dotnet run	Executa o aplicativo na origem.
+		verificação do SDK do dotnet, mostra o status atualizado das versões SDK e Runtime instaladas.
+dotnet sln	Opções para adicionar, remover e listar projetos em um arquivo de solução.
+dotnet store	Armazena os assemblies no repositório de pacotes de runtime.
+dotnet test	Executa testes usando um executor de teste.

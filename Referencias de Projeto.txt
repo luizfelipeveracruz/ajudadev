@@ -1,0 +1,4 @@
+Comando	Função
+dotnet add reference		Adiciona uma referência ao projeto.
+dotnet list reference		Lista referências ao projeto.
+dotnet remove reference		Remove uma referência ao projeto.

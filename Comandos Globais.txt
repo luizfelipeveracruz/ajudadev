@@ -1,0 +1,6 @@
+Comando	Função
+dotnet tool install	Instala uma ferramenta em seu computador.
+dotnet tool list	Lista todas as ferramentas globais, ferramentas-caminho ou locais atualmente instaladas no seu computador.
+dotnet tool search	pesquisa NuGet. org para obter ferramentas que têm o termo de pesquisa especificado em seu nome ou metadados.
+dotnet tool uninstall	Desinstala uma ferramenta do seu computador.
+dotnet tool update	Atualiza uma ferramenta instalada em seu computador.

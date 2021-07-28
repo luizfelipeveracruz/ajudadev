@@ -1,0 +1,10 @@
+Comando	Função
+dotnet nuget delete		Exclui ou retira da lista um pacote do servidor.
+dotnet nuget push		Envia um pacote ao servidor e os publica.
+dotnet nuget locals		Limpa ou lista os recursos locais do NuGet, como cache de solicitação http, cache temporário ou pasta de pacotes globais em todo o computador.
+dotnet nuget add source		adiciona uma fonte de NuGet.
+dotnet nuget disable source	desabilita uma fonte de NuGet.
+dotnet nuget enable source	habilita uma fonte de NuGet.
+dotnet nuget list source	lista todas as fontes de NuGet configuradas.
+dotnet nuget remove source	remove uma fonte de NuGet.
+dotnet nuget update source	atualiza uma fonte de NuGet.
