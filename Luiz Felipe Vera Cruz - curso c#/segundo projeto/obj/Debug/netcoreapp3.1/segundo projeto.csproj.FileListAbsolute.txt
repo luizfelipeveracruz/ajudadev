@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.exe
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.deps.json
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.runtimeconfig.json
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.dll
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\bin\Debug\netcoreapp3.1\segundo projeto.pdb
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.AssemblyInfo.cs
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.dll
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.pdb
+C:\Users\dev\Desktop\Luiz Felipe Vera Cruz - curso c#\segundo projeto\obj\Debug\netcoreapp3.1\segundo projeto.genruntimeconfig.cache
