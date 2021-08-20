@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\bin\Debug\netcoreapp3.1\exercicio logica.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicio logica\obj\Debug\netcoreapp3.1\exercicio logica.genruntimeconfig.cache
