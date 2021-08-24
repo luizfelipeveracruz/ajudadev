@@ -1,0 +1,19 @@
+Operadores logicos 
+Pseudocódigo = E, OU, NÃO
+C# = &&, ||, !
+
+-OU (||)
+V OU V = V
+V OU F = V
+F OU V = V
+F OU F = F
+
+-E (&&)
+V OU V = V
+V OU F = F
+F OU V = F
+F OU F = F
+
+-NÃO (!)
+NÃO V = F
+NÃO F = V

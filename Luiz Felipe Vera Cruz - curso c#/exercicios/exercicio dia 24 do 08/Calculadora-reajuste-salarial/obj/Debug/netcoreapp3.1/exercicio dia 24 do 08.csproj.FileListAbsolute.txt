@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\bin\Debug\netcoreapp3.1\exercicio dia 24 do 08.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\obj\Debug\netcoreapp3.1\exercicio dia 24 do 08.genruntimeconfig.cache

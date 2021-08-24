@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\bin\Debug\netcoreapp3.1\Condicionais2.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\Condicionais2\obj\Debug\netcoreapp3.1\Condicionais2.genruntimeconfig.cache

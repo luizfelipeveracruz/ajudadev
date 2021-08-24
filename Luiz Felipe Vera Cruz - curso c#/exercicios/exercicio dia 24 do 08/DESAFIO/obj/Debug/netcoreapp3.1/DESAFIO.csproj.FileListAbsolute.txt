@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\bin\Debug\netcoreapp3.1\DESAFIO.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\exercicios\exercicio dia 24 do 08\DESAFIO\obj\Debug\netcoreapp3.1\DESAFIO.genruntimeconfig.cache
