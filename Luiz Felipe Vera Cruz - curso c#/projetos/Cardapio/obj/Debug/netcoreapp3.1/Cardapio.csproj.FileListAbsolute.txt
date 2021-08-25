@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\bin\Debug\netcoreapp3.1\Cardapio.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\projetos\Cardapio\obj\Debug\netcoreapp3.1\Cardapio.genruntimeconfig.cache
