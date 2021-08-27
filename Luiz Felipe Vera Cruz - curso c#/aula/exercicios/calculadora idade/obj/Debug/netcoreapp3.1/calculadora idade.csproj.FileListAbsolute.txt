@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.exe
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.deps.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.runtimeconfig.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\bin\Debug\netcoreapp3.1\calculadora idade.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.AssemblyInfo.cs
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.dll
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.pdb
+C:\Users\dev\Desktop\ajudadev\Luiz Felipe Vera Cruz - curso c#\aula\exercicios\calculadora idade\obj\Debug\netcoreapp3.1\calculadora idade.genruntimeconfig.cache
