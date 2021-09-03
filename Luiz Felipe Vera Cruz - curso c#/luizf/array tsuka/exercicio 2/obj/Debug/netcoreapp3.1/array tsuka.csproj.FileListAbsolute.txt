@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.exe
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.deps.json
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.runtimeconfig.json
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.runtimeconfig.dev.json
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.dll
+C:\Users\fic\Desktop\array tsuka\bin\Debug\netcoreapp3.1\array tsuka.pdb
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.AssemblyInfo.cs
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.dll
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.pdb
+C:\Users\fic\Desktop\array tsuka\obj\Debug\netcoreapp3.1\array tsuka.genruntimeconfig.cache

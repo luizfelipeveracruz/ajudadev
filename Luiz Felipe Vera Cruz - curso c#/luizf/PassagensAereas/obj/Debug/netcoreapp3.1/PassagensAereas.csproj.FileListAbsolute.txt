@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.AssemblyInfo.cs
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.exe
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.deps.json
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.runtimeconfig.json
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.dll
+C:\Users\fic\Desktop\luiz f\PassagensAereas\bin\Debug\netcoreapp3.1\PassagensAereas.pdb
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.dll
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.pdb
+C:\Users\fic\Desktop\luiz f\PassagensAereas\obj\Debug\netcoreapp3.1\PassagensAereas.genruntimeconfig.cache
